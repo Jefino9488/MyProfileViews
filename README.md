@@ -99,9 +99,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/576673217/small/year.png" height="20"> 6
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/817866375/year.md">
+				FrameworkPatcher
+			</a>
+		</td>
+		<td>
+			2024/6/29 6:56 PM UTC
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/817866375/small/year.png" height="20"> 237
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/7/2 6:16 PM UTC</i></small>
+<small><i>Last updated on 2024/7/2 6:56 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
