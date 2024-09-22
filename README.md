@@ -115,9 +115,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/817866375/small/year.png" height="20"> 27528
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/861015899/year.md">
+				HyperMod-Builder
+			</a>
+		</td>
+		<td>
+			2024/9/19 12:24 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/861015899/small/year.png" height="20"> 158
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/852378135/year.md">
+				Chat-with-PDF
+			</a>
+		</td>
+		<td>
+			2024/9/19 12:25 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/852378135/small/year.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/840378371/year.md">
+				ChatRoom
+			</a>
+		</td>
+		<td>
+			2024/9/19 12:25 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/840378371/small/year.png" height="20"> 11
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/9/22 6:18 AM UTC</i></small>
+<small><i>Last updated on 2024/9/22 12:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
