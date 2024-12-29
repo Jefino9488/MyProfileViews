@@ -1,7 +1,7 @@
 ## [🔙 MyProfileViews](https://github.com/Jefino9488/MyProfileViews)
 
-### :octocat: [ChatRoom](https://github.com/Jefino9488/ChatRoom)
-![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/large/year.png)
+### :octocat: [Jefino9488](https://github.com/Jefino9488/Jefino9488)
+![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/909767323/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>52</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>26</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/29 6:18 PM UTC</i></small>
+<small><i>Last updated on 2024/12/29 6:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/840378371/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/909767323/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/909767323/week.md)
 ```readme
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/840378371/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/909767323/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/909767323/week.md)
 ```
 ### Header
-# ChatRoom [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
+# Jefino9488 [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/909767323/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/909767323/year.md)
 ```readme
-# ChatRoom [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
+# Jefino9488 [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/909767323/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/909767323/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
