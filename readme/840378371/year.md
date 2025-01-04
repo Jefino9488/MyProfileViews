@@ -1,6 +1,6 @@
 ## [🔙 MyProfileViews](https://github.com/Jefino9488/MyProfileViews)
 
-### :octocat: [ChatRoom](https://github.com/Jefino9488/ChatRoom)
+### :octocat: [Code_Community](https://github.com/Jefino9488/Code_Community)
 ![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>12</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/4 12:26 PM UTC</i></small>
+<small><i>Last updated on 2025/1/4 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/840378371/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/week.md)
 ```
 ### Header
-# ChatRoom [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
+# Code_Community [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
 ```readme
-# ChatRoom [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
+# Code_Community [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/840378371/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/840378371/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
