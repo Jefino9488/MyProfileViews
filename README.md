@@ -147,9 +147,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/852378135/small/year.png" height="20"> 78
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/840378371/year.md">
+				Code_Community
+			</a>
+		</td>
+		<td>
+			2025/4/1 1:20 AM UTC
+		</td>
+		<td>
+			53
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/840378371/small/year.png" height="20"> 215
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 12:31 PM UTC</i></small>
+<small><i>Last updated on 2025/4/3 6:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
