@@ -11,6 +11,18 @@
     "FrameworkPatcher",
     "HyperMod-Builder",
     "Chat-with-PDF",
-    "ChatRoom"
+    "ChatRoom",
+    "template-vite-react-node-postgres",
+    "Contacts-Manager",
+    "Track-Visitors",
+    "Telegram-Moderation-Bot",
+    "Personal-Bot-API",
+    "Resume-Builder",
+    "PollSnap",
+    "College-Management",
+    "College-Management-Server",
+    "MediFind",
+    "GitIngest_Plugin",
+    "My_Drive"
   ]
 }
