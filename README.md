@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/909767323/year.md">
-				Jefino9488
-			</a>
-		</td>
-		<td>
-			2025/7/9 1:20 AM UTC
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/909767323/small/year.png" height="20"> 121
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/731266814/year.md">
 				XAGA-builder
 			</a>
@@ -357,7 +341,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/11 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/7/11 12:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
