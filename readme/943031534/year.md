@@ -1,6 +1,6 @@
 ## [🔙 MyProfileViews](https://github.com/Jefino9488/MyProfileViews)
 
-### :octocat: [MediFind](https://github.com/Jefino9488/MediFind)
+### :octocat: [MediMap](https://github.com/Jefino9488/MediMap)
 ![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/943031534/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/7/22 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/7/22 12:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/943031534/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/943031534/week.md)
 ```
 ### Header
-# MediFind [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/943031534/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/943031534/year.md)
+# MediMap [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/943031534/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/943031534/year.md)
 ```readme
-# MediFind [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/943031534/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/943031534/year.md)
+# MediMap [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/943031534/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/943031534/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
