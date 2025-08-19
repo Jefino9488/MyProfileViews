@@ -1,7 +1,7 @@
 ## [🔙 MyProfileViews](https://github.com/Jefino9488/MyProfileViews)
 
-### :octocat: [Track-Visitors](https://github.com/Jefino9488/Track-Visitors)
-![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/983542063/large/year.png)
+### :octocat: [FrameworkPatcherV2](https://github.com/Jefino9488/FrameworkPatcherV2)
+![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/954804522/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>175</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>524</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/8/19 5:14 AM UTC</i></small>
+<small><i>Last updated on 2025/8/19 5:16 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/983542063/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/983542063/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/954804522/week.md)
 ```readme
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/983542063/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/983542063/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/954804522/week.md)
 ```
 ### Header
-# Track-Visitors [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/983542063/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/983542063/year.md)
+# FrameworkPatcherV2 [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/954804522/year.md)
 ```readme
-# Track-Visitors [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/983542063/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/983542063/year.md)
+# FrameworkPatcherV2 [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/954804522/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
