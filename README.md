@@ -371,9 +371,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/954804522/small/year.png" height="20"> 805
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/1047592111/year.md">
+				Lost-in-the-Middle-Analyzer
+			</a>
+		</td>
+		<td>
+			2025/8/30 12:00 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/1047592111/small/year.png" height="20"> 45
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/9/2 1:16 AM UTC</i></small>
+<small><i>Last updated on 2025/9/2 2:47 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

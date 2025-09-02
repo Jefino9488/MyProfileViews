@@ -1,7 +1,7 @@
 ## [🔙 MyProfileViews](https://github.com/Jefino9488/MyProfileViews)
 
-### :octocat: [HyperMod-Builder](https://github.com/Jefino9488/HyperMod-Builder)
-![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/861015899/large/year.png)
+### :octocat: [Lost-in-the-Middle-Analyzer](https://github.com/Jefino9488/Lost-in-the-Middle-Analyzer)
+![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/graph/1047592111/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/9/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>16</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>12</code>
 		</td>
 		<td>
-			<code>72</code>
+			<code>29</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>56</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>54</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>49</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>23</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>84</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>40</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>101</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>36</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>149</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>36</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>89</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>66</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>468</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>38</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>225</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/9/2 2:45 AM UTC</i></small>
+<small><i>Last updated on 2025/9/2 2:47 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/861015899/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/861015899/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/1047592111/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/1047592111/week.md)
 ```readme
-[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/861015899/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/861015899/week.md)
+[![Image of MyProfileViews](https://github.com/Jefino9488/MyProfileViews/blob/master/svg/1047592111/badge.svg)](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/1047592111/week.md)
 ```
 ### Header
-# HyperMod-Builder [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/861015899/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/861015899/year.md)
+# Lost-in-the-Middle-Analyzer [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/1047592111/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/1047592111/year.md)
 ```readme
-# HyperMod-Builder [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/861015899/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/861015899/year.md)
+# Lost-in-the-Middle-Analyzer [<img alt="Image of MyProfileViews" src="https://github.com/Jefino9488/MyProfileViews/blob/master/graph/1047592111/small/year.png" height="20">](https://github.com/Jefino9488/MyProfileViews/blob/master/readme/1047592111/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
