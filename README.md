@@ -357,8 +357,8 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/954804522/year.md">
-				FrameworkPatcherV2
+			<a href="https://github.com/AndroidFoundry/MyProfileViews/tree/master/readme/954804522/year.md">
+				FrameworkPatcher
 			</a>
 		</td>
 		<td>
@@ -368,7 +368,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			3883
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/954804522/small/year.png" height="20"> 17056
+			<img alt="Response time graph" src="https://github.com/AndroidFoundry/MyProfileViews/raw/master/graph/954804522/small/year.png" height="20"> 17056
 		</td>
 	</tr>
 	<tr>
@@ -389,7 +389,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/1/25 1:44 AM UTC</i></small>
+<small><i>Last updated on 2026/1/25 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
