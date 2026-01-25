@@ -1,7 +1,7 @@
-## [🔙 MyProfileViews](https://github.com/AndroidFoundry/MyProfileViews)
+## [🔙 MyProfileViews](https://github.com/FrameworksForge/MyProfileViews)
 
-### :octocat: [FrameworkPatcher](https://github.com/AndroidFoundry/FrameworkPatcher)
-![Image of MyProfileViews](https://github.com/AndroidFoundry/MyProfileViews/blob/master/graph/954804522/large/year.png)
+### :octocat: [FrameworkPatcher](https://github.com/FrameworksForge/FrameworkPatcher)
+![Image of MyProfileViews](https://github.com/FrameworksForge/MyProfileViews/blob/master/graph/954804522/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/1/1</code>
 		</td>
 		<td>
-			<code>867</code>
+			<code>902</code>
 		</td>
 		<td>
-			<code>3243</code>
+			<code>3389</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/1/25 6:29 AM UTC</i></small>
+<small><i>Last updated on 2026/1/25 12:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of MyProfileViews](https://github.com/AndroidFoundry/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/AndroidFoundry/MyProfileViews/blob/master/readme/954804522/week.md)
+[![Image of MyProfileViews](https://github.com/FrameworksForge/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/FrameworksForge/MyProfileViews/blob/master/readme/954804522/week.md)
 ```readme
-[![Image of MyProfileViews](https://github.com/AndroidFoundry/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/AndroidFoundry/MyProfileViews/blob/master/readme/954804522/week.md)
+[![Image of MyProfileViews](https://github.com/FrameworksForge/MyProfileViews/blob/master/svg/954804522/badge.svg)](https://github.com/FrameworksForge/MyProfileViews/blob/master/readme/954804522/week.md)
 ```
 ### Header
-# FrameworkPatcher [<img alt="Image of MyProfileViews" src="https://github.com/AndroidFoundry/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/AndroidFoundry/MyProfileViews/blob/master/readme/954804522/year.md)
+# FrameworkPatcher [<img alt="Image of MyProfileViews" src="https://github.com/FrameworksForge/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/FrameworksForge/MyProfileViews/blob/master/readme/954804522/year.md)
 ```readme
-# FrameworkPatcher [<img alt="Image of MyProfileViews" src="https://github.com/AndroidFoundry/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/AndroidFoundry/MyProfileViews/blob/master/readme/954804522/year.md)
+# FrameworkPatcher [<img alt="Image of MyProfileViews" src="https://github.com/FrameworksForge/MyProfileViews/blob/master/graph/954804522/small/year.png" height="20">](https://github.com/FrameworksForge/MyProfileViews/blob/master/readme/954804522/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
