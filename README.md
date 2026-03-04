@@ -261,22 +261,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/952701570/year.md">
-				PollSnap
-			</a>
-		</td>
-		<td>
-			2026/3/2 1:52 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/952701570/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/1055787041/year.md">
 				College-Management
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/4 12:52 PM UTC</i></small>
+<small><i>Last updated on 2026/3/4 6:45 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
