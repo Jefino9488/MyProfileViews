@@ -339,9 +339,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/922800420/small/year.png" height="20"> 3
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/917798545/year.md">
+				My_Drive
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:39 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/917798545/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FrameworksForge/MyProfileViews/tree/master/readme/954804522/year.md">
+				FrameworkPatcher
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:39 AM UTC
+		</td>
+		<td>
+			7795
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/FrameworksForge/MyProfileViews/raw/master/graph/954804522/small/year.png" height="20"> 32144
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/1047592111/year.md">
+				Lost-in-the-Middle-Analyzer
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:39 AM UTC
+		</td>
+		<td>
+			115
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/1047592111/small/year.png" height="20"> 312
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 3:26 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 8:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
