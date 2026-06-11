@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/576673217/year.md">
-				Ai-Chatbot-Zapy
-			</a>
-		</td>
-		<td>
-			2026/6/9 2:47 AM UTC
-		</td>
-		<td>
-			89
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Jefino9488/MyProfileViews/raw/master/graph/576673217/small/year.png" height="20"> 124
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/817866375/year.md">
 				FrameworkPatcher
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/11 3:37 AM UTC</i></small>
+<small><i>Last updated on 2026/6/11 10:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
