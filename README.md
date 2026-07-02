@@ -357,22 +357,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FrameworksForge/MyProfileViews/tree/master/readme/954804522/year.md">
-				FrameworkPatcher
-			</a>
-		</td>
-		<td>
-			2026/6/30 12:00 AM UTC
-		</td>
-		<td>
-			8464
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/FrameworksForge/MyProfileViews/raw/master/graph/954804522/small/year.png" height="20"> 34736
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Jefino9488/MyProfileViews/tree/master/readme/1047592111/year.md">
 				Lost-in-the-Middle-Analyzer
 			</a>
@@ -389,7 +373,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/2 1:53 PM UTC</i></small>
+<small><i>Last updated on 2026/7/2 7:20 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
